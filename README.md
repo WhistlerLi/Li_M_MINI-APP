@@ -16,10 +16,13 @@ splash/home page).
 
 ## Getting Started
 * HTML5
-* CSS3
+* CSS3 
+* SASS
 * Javascript
 * Node
 * Express
+* Vue.js
+
 
 ### Acknowledgments
 Fanshawe College IDP3
