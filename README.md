@@ -12,7 +12,9 @@ Create an AJAX request for the mini data housed in your database using the Fetch
 XHTTP object. Use that application state to build out your application’s view (the mini app
 splash/home page).
 
-
+### build instructions
+1. Go to the server directory to execute node index
+2. Execute npm run dev in the root directory
 
 ## Getting Started
 * HTML5
